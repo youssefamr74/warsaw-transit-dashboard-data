@@ -1,0 +1,17 @@
+{
+  "exported_at": "2026-10-30T08:14:21+00:00",
+  "first_date": "2026-10-20",
+  "last_date": "2026-10-29",
+  "rows": {
+    "line_hourly.parquet": 18620,
+    "speed_grid.parquet": 472066,
+    "collection_hourly.parquet": 76,
+    "dq_results.parquet": 1800
+  },
+  "bytes": {
+    "collection_hourly.parquet": 2672,
+    "dq_results.parquet": 9913,
+    "speed_grid.parquet": 4624461,
+    "line_hourly.parquet": 272644
+  }
+}
